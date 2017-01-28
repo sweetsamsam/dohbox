@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         dohbox
 // @namespace    http://www.dohbox.com/
-// @version      0.3
+// @version      0.4
 // @description  dohbox
 // @author       You
 // @match        http://www.dohbox.com/
@@ -13,6 +13,6 @@
 (function() {
     'use strict';
 
-    document.getElementsByTagName('h1')[0].style.color = 'yellow';
+    document.getElementsByTagName('h1')[0].style.color = 'green';
     
 })();
