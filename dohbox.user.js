@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         dohbox
 // @namespace    http://www.dohbox.com/
-// @version      0.2
+// @version      0.3
 // @description  dohbox
 // @author       You
 // @match        http://www.dohbox.com/
-// @updateURL    https://drive.google.com/file/d/0B7m12_XkLbCdcWJLY3JDQXhKSFU/view?usp=sharing
-// @downloadURL  https://drive.google.com/open?id=0B7m12_XkLbCdSm5Fekt2WG5iRFU
+// @updateURL    https://raw.githubusercontent.com/sweetsamsam/dohbox/master/dohbox.meta.js
+// @downloadURL  https://github.com/sweetsamsam/dohbox/raw/master/dohbox.user.js
 // @grant        none
 // ==/UserScript==
 
