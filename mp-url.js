@@ -1,1 +1,1 @@
-window.mpUrl = 'https://www.mypoints.com/shop-by-brand/RayBan';
+window.mpUrl = 'https://www.mypoints.com/shop-by-brand/AARP';
