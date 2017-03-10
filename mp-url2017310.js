@@ -1,1 +1,1 @@
- window.mpUrl = 'https://www.mypoints.com/shop-by-brand/Deluxe';
+window.mpUrl = 'https://www.mypoints.com/shop-by-brand/Deluxe';
